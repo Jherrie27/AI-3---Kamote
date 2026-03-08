@@ -1,0 +1,14 @@
+gradio>=4.0
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+pypdf
+pdfplumber
+langchain
+langchain-text-splitters
+rank_bm25
+numpy
+nltk
