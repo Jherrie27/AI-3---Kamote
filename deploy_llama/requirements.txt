@@ -1,0 +1,11 @@
+gradio>=4.0
+sentence-transformers
+faiss-cpu
+groq
+pypdf
+pdfplumber
+langchain
+langchain-text-splitters
+rank_bm25
+numpy
+nltk
